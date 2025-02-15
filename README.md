@@ -2,7 +2,7 @@
 
 ## About This Project
 This project applies regression and classification techniques to predict transactional features in the NFT market. By analyzing market data, it identifies patterns and relationships between various factors influencing NFT sales and trading behavior.
-**Full paper: https://ledger.pitt.edu/ojs/ledger/article/view/377
+Full paper: https://ledger.pitt.edu/ojs/ledger/article/view/377
 
 ## Built With
 - **PyCaret**: Simplifies machine learning workflows.
